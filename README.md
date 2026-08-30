@@ -1,3 +1,3 @@
 # NSFibTime
 
-Natural Trading Theory public study and market-review site.
+Natural Trading Theory public study, market-review site, and local-first case validation lab.
